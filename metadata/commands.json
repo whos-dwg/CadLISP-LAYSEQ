@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/LAYSEQ.lsp",
+    "commands": [
+      "LAYSEQ"
+    ],
+    "title": "配置頁籤批次編號",
+    "category": "配置與圖層",
+    "manual": "README.md"
+  }
+]

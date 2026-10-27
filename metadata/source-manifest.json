@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/LAYSEQ.lsp",
+      "bytes": 11162,
+      "sha256": "bcbbc5dee799fee709e0c68a738101cfbee967b347157ef0b4a367076ca5253d",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "LAYSEQ",
+          "line": 438
+        }
+      ]
+    }
+  ]
+}
